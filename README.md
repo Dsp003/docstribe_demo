@@ -48,8 +48,8 @@ Once all the setup is done, run the following command.
 Once you run this command, it will
 - download and install the needed python version if not already present locally.
 - create a virtual environment
-- download and install the all the dependencies needed to run the app.
-- Bring up the server at localhost:8000
+- download and install all the dependencies needed to run the app.
+- Bring up a web server at localhost:8000
 
 From the second run onwards use this command
    ```bash
