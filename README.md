@@ -167,7 +167,7 @@ If medical history exists:
         },
         {
             "role": "assistant",
-            "content": "Alkaline Phosphatase (ALP) is an enzyme found in various tissues throughout the body, with the highest concentrations in the liver, bones, kidneys, and bile ducts. It plays a role in breaking down proteins and is often measured to assess liver and bone health.\n\nThe optimal limit for Alkaline Phosphatase can vary based on the laboratory and the specific population, but generally, normal levels are typically around 44 to 147 IU/L. Since your level is 437.0, it is significantly elevated, which may indicate liver or bone issues.\n\nIf you have more questions related to your medical history, feel free to ask!"
+            "content": "Alkaline Phosphatase (ALP) is an enzyme found in various tissues throughout the body, with the highest concentrations in the liver, bones, kidneys, and bile ducts. It plays a role in breaking down proteins and is often measured to assess liver and bone health.\n\nThe optimal limit for Alkaline Phosphatase can vary based on the laboratory and the individual's age and sex, but generally, normal ranges are approximately:\n- For adults: 44 to 147 IU/L (international units per liter)\n\nSince your level is significantly higher at 437.0 IU/L, it suggests that there may be an underlying issue that needs further investigation.\n\nIf you have more questions related to your medical history, feel free to ask!"
         }
       ],
       "question": "What is Alkaline Phosphatase and what is the optimal limit ?"
