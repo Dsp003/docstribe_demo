@@ -12,10 +12,10 @@ Before running the app, ensure that you have the following dependencies installe
 
 ### Mongo DB
 - Make sure you have a valid connection string for mongo db. You can locally install and setup mongo db or use the free cloud version from mongo atlas.
-- It is highly recommended to download mongo compass easily manage the created collections.
+- It is highly recommended to download mongo compass to easily manage the created collections.
 
 ### .env
-- In the root folder create a file named .env with the following to be used as environmental variables
+- In the root folder create a file named .env with the following, to be used as environmental variables
 
    ```.env
    MONGO_URI=<mongo connection string>
